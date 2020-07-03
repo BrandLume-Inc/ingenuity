@@ -3,7 +3,7 @@
 .sass-cache/
 robots.txt
 node_modules/
-
+.idea/
 # Wordpress specific
 
 wordpress/*
